@@ -1,0 +1,55 @@
+.booking-page {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.appointment-form {
+  display: flex;
+  flex-direction: column;
+}
+.form-group { margin-bottom: 20px; }
+select {
+  padding: 8px;
+  border-radius: 5px;
+  width: 300px;
+}
+.calendar-wrapper { max-width: 400px; margin: 20px 0; }
+.times {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.time-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background: #f1f1f1;
+}
+.time-btn.selected {
+  background-color: #007bff;
+  color: white;
+}
+.time-btn:disabled {
+  background-color: #e0e0e0;
+  color: #999;
+}
+.confirm-btn {
+  margin-top: 20px;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.calendar-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

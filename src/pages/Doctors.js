@@ -76,14 +76,14 @@ console.log("✅ Doctors component loaded");
 
 
 const doctors = [
-  { id: 1, name: 'Dr. Anika Rahman', email: 'anika@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 2, name: 'Dr. Tuhin Ali', email: 'tuhin@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 3, name: 'Dr. Zoya Hossain', email: 'zoya@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 4, name: 'Dr. Imran Khan', email: 'imran@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 5, name: 'Dr. Nila Khatun', email: 'nila@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 6, name: 'Dr. Farhan Rahim', email: 'farhan@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 7, name: 'Dr. Mehnaz Jahan', email: 'mehnaz@clinic.com', photo: 'https://via.placeholder.com/60' },
-  { id: 8, name: 'Dr. Tanjim Noor', email: 'tanjim@clinic.com', photo: 'https://via.placeholder.com/60' },
+  { id: 1, name: 'Dr. Anika Rahman', email: 'anika@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 2, name: 'Dr. Tuhin Ali', email: 'tuhin@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 3, name: 'Dr. Zoya Hossain', email: 'zoya@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 4, name: 'Dr. Imran Khan', email: 'imran@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 5, name: 'Dr. Nila Khatun', email: 'nila@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 6, name: 'Dr. Farhan Rahim', email: 'farhan@gmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 7, name: 'Dr. Mehnaz Jahan', email: 'mehnaz@cgmail.com', photo: 'https://via.placeholder.com/60' },
+  { id: 8, name: 'Dr. Tanjim Noor', email: 'tanjim@gmail.com', photo: 'https://via.placeholder.com/60' },
 ];
 
 const PAGE_SIZE = 4;

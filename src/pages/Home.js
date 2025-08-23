@@ -25,12 +25,12 @@ import React from 'react';
 
 const Home = () => {
   return (
-    <div style={{ maxWidth: '800px', margin: 'auto' }}>
+    <div style={{ maxWidth: '1100px', margin: 'auto' }}>
       <h1>Welcome to Smile Bright Dental Clinic</h1>
-      <p>
+      <p  style={{ fontSize: "20px", fontWeight: "bold" }}>
         Your smile is our priority! We provide expert dental care in a friendly and comfortable environment.
       </p>
-      <p>
+      <p style={{ fontSize: "20px", fontWeight: "bold" }}>
         Navigate through the sidebar to book your appointment, learn about our services, meet our doctors, and get in touch.
       </p>
       <img
@@ -43,7 +43,7 @@ const Home = () => {
         
   src={clinicImage}
   alt="Clinic"
-  style={{ width: '100%', borderRadius: '10px', marginTop: '20px' }}
+  style={{ width: '100%', borderRadius: '10px', marginTop: '20' }}
 />
 
     

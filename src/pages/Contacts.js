@@ -5,7 +5,7 @@ const Contacts = () => {
   return (
     <div>
       <h2>Contact Us</h2>
-      <p>Email: smilestudio@example.com</p>
+      <p>Email: smilestudio@gmail.com</p>
       <p>Phone: +880 123-456-7890</p>
       <p>Address: 123 Dental Street, Dhaka, Bangladesh</p>
 
